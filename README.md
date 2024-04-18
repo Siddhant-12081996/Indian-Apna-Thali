@@ -1,9 +1,9 @@
-# Indian Thali App  ---MERN App
+# Indian Thali App  ---FRONTEND App
 
-It is a FrontEnd  app where we can add item to cart and delete them from cart and when we click on image we can see the summery of that items.
+It is a React  app where we can add item to cart and delete them from cart and when we click on image we can see the summery of that items.
 
 ## Deployment Link:
-
+https://indian-apna-thali.vercel.app/
 
 
 ## Features:
